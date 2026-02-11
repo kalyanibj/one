@@ -33,7 +33,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://44.204.67.34:8081/repository/myArtifact-of-ecmrce-app//</url>
+		    <url>http://13.222.236.242:8081/repository/myartifact/</url>
 		</repository>
   	</distributionManagement>
 	
