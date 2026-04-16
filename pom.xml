@@ -65,7 +65,7 @@
 		<plugins>
 			<plugin>
 				<groupid>org.apache.maven.plugins</groupid>
-				<artifactId>maven-war-plugin</artifact>
+				<artifactId>maven-war-plugin</artifactId>
 					<version>3.4.8</version>
 				</plugin>
 		</plugins>
